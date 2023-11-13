@@ -15,3 +15,4 @@ C:\Users\teres\OneDrive\Documents\Schoolwork\CIS4930 Enterprise\EsepWebhook\src\
 C:\Users\teres\OneDrive\Documents\Schoolwork\CIS4930 Enterprise\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
 C:\Users\teres\OneDrive\Documents\Schoolwork\CIS4930 Enterprise\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\teres\OneDrive\Documents\Schoolwork\CIS4930 Enterprise\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\teres\OneDrive\Documents\Schoolwork\CIS4930 Enterprise\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
